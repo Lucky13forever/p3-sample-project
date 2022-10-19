@@ -1,2 +1,8 @@
-package ro.uvt.p3;public class Fruit {
+package ro.uvt.p3;
+
+abstract public class Fruit {
+    int weight;
+    int sugar_content;
+    int water_content;
+    String color;
 }
