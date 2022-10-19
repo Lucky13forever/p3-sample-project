@@ -11,6 +11,6 @@ public class Main {
         Application app = new Application(id, od);
 
         app.run();
-        System.out.println("Code just changed_1");
+        System.out.println("Code just changed_2");
     }
 }
